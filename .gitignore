@@ -1,0 +1,31 @@
+# MPLAB X / XC8 build outputs
+/build/
+/dist/
+/debug/
+
+# MPLAB X private settings (user-specific)
+/nbproject/private/
+
+# Common generated files
+*.o
+*.d
+*.i
+*.p1
+*.elf
+*.hex
+*.map
+*.lst
+*.sym
+*.sdb
+*.cmf
+*.rlf
+*.mum
+*.hxl
+*.xml~ 
+*.log
+
+# OS / IDE noise
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
